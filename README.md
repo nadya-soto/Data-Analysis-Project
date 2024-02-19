@@ -1,4 +1,4 @@
-#Wind and Solar Energy Data Exploration Project in Brighton
+*Wind and Solar Energy Data Exploration Project in Brighton
 Overview
 
 This project explores wind and solar energy data from Brighton spanning 2010 to 2024. It aims to understand trends, patterns, and potential relationships between wind and solar energy generation and other environmental factors.
